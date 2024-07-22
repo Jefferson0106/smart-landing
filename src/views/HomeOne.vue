@@ -17,6 +17,6 @@ TestimonialOne, ChooseOne, BlogOne, CTAOne, } from "../components";
     <!--TestimonialOne/> -->
     <!--ChooseOne/> -->
     <BlogOne/> 
-    <CTAOne/>
+    <!---CTAOne/>  -->
     
 </template>

@@ -1929,7 +1929,7 @@ p.blog-meta i:before {
 
 .footer-area p {
 	margin-top: 16px;
-	color: #1e90ff;
+	color: white;
 }
 
 .contact-info p {
@@ -1958,7 +1958,7 @@ p.blog-meta i:before {
 	font-size: 16px;
 	line-height: 13px;
 	background: #F35C27;
-	color: #1e90ff;
+	color: white;
 	-webkit-transition: all 0.3s ease-out 0s;
 	transition: all 0.3s ease-out 0s;
 	border: 0;
@@ -1989,7 +1989,8 @@ p.blog-meta i:before {
 }
 
 .footer-up .social-area a {
-    border: 1px solid #1e90ff;
+	background-color: white;
+    border: 1px solid white;
     padding: 10px;
     margin-right: 10px;
 }
@@ -1999,7 +2000,7 @@ p.blog-meta i:before {
 }
 
 .footer-up .social-area i {
-	color: #1e90ff;
+	color: blue;
 	font-size: 21px;
 }
 
@@ -2010,7 +2011,7 @@ p.blog-meta i:before {
 
 .footer-bottom p {
 	margin: 0;
-    color: #1e90ff;
+    color: white;
     font-size: 15px;
     opacity: .5;
 }
